@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+fieldset{
+  color: white;
+  border: #0000ffff;
+}
+
+.Overall-div {
+  margin-top: 50px;
+  margin-left: 15%;
+  background-color: rgb(76, 76, 78);
+  width: 70%;
+  border-radius: 10px;
+  height: 300px;
+  position:absolute;
+
+  top: 50px;
+
+}
+
+.Left-div{
+  width: 30%;
+  height: 100px;
+  float: left;
+  padding: 10px;
+}
+
+.Center-div{
+  width:30%;
+  height: 100px;
+  padding: 10px;
+  float: left;
+}
+
+.Right-div{
+  width:30%;
+  height: 100px;
+  padding:10px;
+  float: left;
+}
