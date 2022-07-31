@@ -1,6 +1,6 @@
 # Arknights Roll Calculator
 
-**A calculator for determining how many rolls you have.** 
+**A calculator for determining how many rolls you have. Original at https://github.com/Nget-1/Arknights_Roll_Calc.** 
 
 ## Usage
 
