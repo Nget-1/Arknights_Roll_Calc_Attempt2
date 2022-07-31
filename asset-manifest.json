@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Arknights_Roll_Calc_Attempt2/static/css/main.073c9b0a.css",
-    "main.js": "/Arknights_Roll_Calc_Attempt2/static/js/main.621f8b72.js",
+    "main.css": "/Arknights_Roll_Calc_Attempt2/static/css/main.ddad7f97.css",
+    "main.js": "/Arknights_Roll_Calc_Attempt2/static/js/main.f5c978aa.js",
     "static/js/787.28cb0dcd.chunk.js": "/Arknights_Roll_Calc_Attempt2/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg.jpg": "/Arknights_Roll_Calc_Attempt2/static/media/bg.900115425344b2f9c062.jpg",
     "static/media/logo.svg": "/Arknights_Roll_Calc_Attempt2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Arknights_Roll_Calc_Attempt2/index.html",
-    "main.073c9b0a.css.map": "/Arknights_Roll_Calc_Attempt2/static/css/main.073c9b0a.css.map",
-    "main.621f8b72.js.map": "/Arknights_Roll_Calc_Attempt2/static/js/main.621f8b72.js.map",
+    "main.ddad7f97.css.map": "/Arknights_Roll_Calc_Attempt2/static/css/main.ddad7f97.css.map",
+    "main.f5c978aa.js.map": "/Arknights_Roll_Calc_Attempt2/static/js/main.f5c978aa.js.map",
     "787.28cb0dcd.chunk.js.map": "/Arknights_Roll_Calc_Attempt2/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.621f8b72.js"
+    "static/css/main.ddad7f97.css",
+    "static/js/main.f5c978aa.js"
   ]
 }
