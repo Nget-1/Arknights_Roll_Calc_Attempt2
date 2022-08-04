@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import React from 'react';
+import React, { useState } from 'react';
 import styles from './App.css';
 
 function tenToOne(tickets) {
@@ -32,6 +32,15 @@ function addUp(originium, orundum, tens) {
   return ten + orundums + originiums;
 }
 
+function HookCurrencyInput() {
+  const [input, setInput] = useState(() => {
+    const saved = localStorage.getItem({orundum})
+    const initialValue = JSON.parse(saved);
+    return initialValue || "";
+  });
+  
+
+}
 
 
 class OrundumInput extends React.Component {
